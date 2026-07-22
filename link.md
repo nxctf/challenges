@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/nxctf/challenges/refs/heads/main/00/08.1_Servi
 https://raw.githubusercontent.com/nxctf/challenges/refs/heads/main/00/08.2_Service_Multi-Questions.png
 https://raw.githubusercontent.com/nxctf/challenges/refs/heads/main/_assets/RECORD.gif
 https://raw.githubusercontent.com/nxctf/challenges/refs/heads/main/_assets/SG.gif
+https://raw.githubusercontent.com/nxctf/challenges/refs/heads/main/_assets/whoisthis.gif
